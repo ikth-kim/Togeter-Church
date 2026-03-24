@@ -1,0 +1,14 @@
+{
+  "churchName": "함께가는교회",
+  "pastorName": "황현상",
+  "pastorRole": "담임목사",
+  "greetingLabel": "목사 인사말",
+  "greetingTitle": "밝고 편안한 분위기 속에서 함께 예배하는 교회",
+  "greetingBody": "함께가는교회에 오신 것을 진심으로 환영합니다.\n\n우리 교회는 모든 세대가 함께 예배하고, 서로 사랑하며 일상 속에서 복음을 살아내는 공동체를 꿈꿉니다.\n\n처음 교회를 찾는 분들도 부담 없이 머물 수 있는 따뜻한 공동체가 되도록 늘 준비하겠습니다.",
+  "slogan": "사랑으로 하나 되어, 일상 속에서 살아가는 교회",
+  "address": "서울시 도봉구 도당로118 거성학마을아파트상가 2층",
+  "phone": "02-000-0000",
+  "email": "church@example.com",
+  "mapEmbedUrl": "https://www.google.com/maps?q=%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EB%8F%84%EB%B4%89%EA%B5%AC%20%EB%8F%84%EB%8B%B9%EB%A1%9C%20118%20%EA%B1%B0%EC%84%B1%ED%95%99%EB%A7%88%EC%9D%84%EC%95%84%ED%8C%8C%ED%8A%B8%EC%83%81%EA%B0%80%202%EC%B8%B5&output=embed",
+  "mapDirectionsUrl": "https://www.google.com/maps?q=%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EB%8F%84%EB%B4%89%EA%B5%AC%20%EB%8F%84%EB%8B%B9%EB%A1%9C%20118%20%EA%B1%B0%EC%84%B1%ED%95%99%EB%A7%88%EC%9D%84%EC%95%84%ED%8C%8C%ED%8A%B8%EC%83%81%EA%B0%80%202%EC%B8%B5"
+}
